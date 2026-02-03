@@ -18,7 +18,7 @@ The simulation includes:
 * **Action Space:** Discrete price choices from a predefined list (e.g., [2.99, 3.48, ..., 5.99]).
 * **State Space:** Each agent observes its own previous price and the competitor's previous price.
 * **Reward:** Calculated as the total profit: $Profit = (Price - Cost) \times Demand$
-* **Demand Model:** $Demand = a - b \times own\_price + c \times (competitor\_price - own\_price)$
+* **Demand Model:** $Demand = a - b \times own_price + c \times (competitor_price - own_price)$
 
   
 ## Algorithms Implemented
