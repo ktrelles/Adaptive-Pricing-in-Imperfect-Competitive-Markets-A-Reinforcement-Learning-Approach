@@ -1,0 +1,2 @@
+# Adaptive-Pricing-in-Imperfect-Competitive-Markets-A-Reinforcement-Learning-Approach
+This project explores the pricing dynamics of differentiated goods (such as coffee capsules) within imperfectly competitive markets using Reinforcement Learning (RL). By replicating duopoly and discrete oligopoly models, the study analyzes how strategic agents adjust prices in response to competitors' actions and market demand.
