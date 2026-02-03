@@ -1,11 +1,13 @@
 # Adaptive-Pricing-in-Imperfect-Competitive-Markets-A-Reinforcement-Learning-Approach
-This project explores the pricing dynamics of differentiated goods (such as coffee capsules) within imperfectly competitive markets using Reinforcement Learning (RL). By replicating duopoly and discrete oligopoly models, the study analyzes how strategic agents adjust prices in response to competitors' actions and market demand.
-Authors: Chiara Pizzetti, Karina Trelles
-Project overview
+
+## Authors: Chiara Pizzetti, Karina Trelles
+
+#Project overview
+
 This project simulates a duopoly market where two competing agents (sellers of coffee capsules) aim to maximize their profits by dynamically adjusting their prices. We explore and compare two different Reinforcement Learning approaches:
 
-Independent Q-learning
-Deep Q-Networks (DQN) The environment is build using the Gymnasium framework, simulating a linear demand model where profit is influenced by both the agent's own price and the competitor's price.
+**1. Independent Q-learning**
+**2. Deep Q-Networks (DQN)** The environment is build using the Gymnasium framework, simulating a linear demand model where profit is influenced by both the agent's own price and the competitor's price.
 Market Environment
 The simulation includes:
 
